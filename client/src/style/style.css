@@ -1,0 +1,55 @@
+#mheader {
+    background-color: #f28500;
+    height:15rem;
+    text-align: left;
+    padding-top: 3rem;
+    color: white;
+}
+#index-content{
+    text-align: center;
+    height:25rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#index-content p {
+    text-align: justify;
+}
+/* card style  #1da2d8*/
+
+#card {
+    padding-top: 1.5rem;
+   
+}
+#header {
+    width:80%;
+    background-color: #f28500;
+    border: solid 2px #f28500;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#name {
+    text-align: center;
+    color: #f28500;
+    padding-top: 0.4rem;
+}
+#name {
+    background-color: white;
+}
+#pic{
+    float: left;
+}
+#text {
+    height: 15rem;
+    text-align: center;
+    padding-top: 6rem;
+    color: white;
+}
+#logo {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 35px;
+    height: 25px;
+}
+
+
